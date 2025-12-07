@@ -1,0 +1,4 @@
+flask
+requests
+instagrapi
+python-dotenv
